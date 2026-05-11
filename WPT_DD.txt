@@ -1,0 +1,10 @@
+d 3[mm] 線直徑
+gap 5[cm] 傳輸氣隙
+x_move 0[cm] X軸錯位
+y_move 0[cm] Y軸錯位
+z_move 0[cm] Z軸錯位
+air_x 50[cm] 空氣域x軸
+air_y 50[cm] 空氣域y軸
+air_z 50[cm] 空氣域z軸
+Ip 5[A] ""
+Is 0[A] ""
