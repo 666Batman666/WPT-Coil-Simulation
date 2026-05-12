@@ -1,4 +1,5 @@
 # WPT-Coil-Simulation
+
 供實驗室參考用的COMSOL模型跟MATLAB APP
 
 .rar檔案為Comsol模型
@@ -7,6 +8,4 @@
 
 .mlapp是線圈座標計算機，推薦用**MATLAB 2025**以上版本執行
 
-::info
 以上資料僅供參考
-::
