@@ -3,9 +3,9 @@
 供實驗室參考用的COMSOL模型跟MATLAB APP
 
 **.rar檔案為Comsol模型**
-  1. N26130493_Report_WPT_Coil.rar為
+  1. N26130493_Report_WPT_Coil.rar 為_螺旋繞線雙D模型_
 
-  2. 
+  2. 簡化模型_雙D.rar 為_簡化模型雙D模型_
 
 
 
