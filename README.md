@@ -2,7 +2,8 @@
 
 供實驗室參考用的COMSOL模型跟MATLAB APP
 
-.rar檔案為Comsol模型
+##.rar檔案為Comsol模型##
+  1. N26130493_Report_WPT_Coil.rar為
 
 .txt檔案為參數資料
 
